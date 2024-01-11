@@ -8,3 +8,5 @@ const repeatString = function (word, times) {
 };
 
 module.exports = repeatString;
+
+console.log(repeatString('hey', 3));
