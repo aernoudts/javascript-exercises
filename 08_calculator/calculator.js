@@ -35,7 +35,3 @@ module.exports = {
   power,
   factorial
 };
-
-let testArray = [1, 2, 3];
-
-console.log(factorial(0));
